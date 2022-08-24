@@ -7,9 +7,9 @@
 
 ## About me:
 
-I'm a Fullstack Developer :smile:
+Sou Desenvolvedor Web Full junior :smile:
 
-Passionate about technology and learning nowadays, I brought my potential product to HTMl, CSS, Javascript, NodeJs, ReJs and Typescript, this product and I would really like your improvement, so if you can allow feedback when checking the projects in this portfolio. Thanks in advance! 
+Apaixonado por tecnologia e por aprender, atualmente trouxe meu produto potencial para HTMl, CSS, Javascript, NodeJs, ReJs e Typescript, esse produto e gostaria muito da sua melhoria-lo, então se puder permitir um feedback ao verificar os projetos esse portfólio. Desde já obrigado!
 
 ## My specialties:
 
