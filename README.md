@@ -9,7 +9,7 @@
 
 I'm a Fullstack Developer :smile:
 
-Apaixonado por tecnologia e por aprender, atualmente venho desenvolvendo meu potencial em HTMl, CSS, Javascript, NodeJs, ReactJs e Typescript, esse é meu portfólio e gostaria muito da sua ajuda para melhora-lo, então se puder deixe um feedback ao verificar os projetos desse portfolio. Desde já obrigado ! 
+Passionate about technology and learning nowadays, I brought my potential product to HTMl, CSS, Javascript, NodeJs, ReJs and Typescript, this product and I would really like your improvement, so if you can allow feedback when checking the projects in this portfolio. Thanks in advance! 
 
 ## My specialties:
 
