@@ -9,7 +9,7 @@
 
 Sou Desenvolvedor Web Full junior :smile:
 
-Apaixonado por tecnologia e por aprender, atualmente trouxe meu produto potencial para HTMl, CSS, Javascript, NodeJs, ReJs e Typescript, esse produto e gostaria muito da sua melhoria-lo, então se puder permitir um feedback ao verificar os projetos esse portfólio. Desde já obrigado!
+Apaixonado por tecnologia e por aprender, atualmente venho desenvolvendo meu potencial em HTMl, CSS, Javascript, NodeJs, ReactJs e Typescript, esse é meu portfólio e gostaria muito da sua ajuda para melhora-lo, então se puder deixe um feedback ao verificar os projetos desse portfolio. Desde já obrigado ! 
 
 ## My specialties:
 
